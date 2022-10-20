@@ -39,7 +39,7 @@ var container = create3("div","class","container");
 var row = create3("div","class","row");
 var col = create3("div","class","col-md-4");
 var left = create3("div","class","left");
-var p = create2("p","<h1>Form:</h1>");
+var p = create2("h1","Form Submission:");
 //form 
 var forms = create3("form","id","form");
 
